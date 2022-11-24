@@ -15,4 +15,5 @@ case $color in
   *) echo "This color is not available. Please choose a different one.";;
 #master, comment 1
 #dev,    comment 2
+#dev,    comment 3
 esac
